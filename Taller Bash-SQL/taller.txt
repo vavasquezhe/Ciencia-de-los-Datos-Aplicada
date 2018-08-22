@@ -1,0 +1,101 @@
+fullname,email,drug,phone,birthdate,city,bill
+Bert Joyner,Sed@eratsemperrutrum.com,Premarin,16110619-8573,2000-07-11T08:57:17-07:00,Haasdonk,43908
+Igor Yates,urna.Nullam.lobortis@lectusquismassa.edu,Namenda,16640818-9113,1985-02-24T02:13:13-08:00,Wilmont,43682
+Christian Savage,imperdiet@at.org,Amlodipine Besylate,16610609-4276,1984-03-05T20:51:57-08:00,Pamplona,13601
+Zia Hooper,sem.Pellentesque.ut@molestiedapibus.org,Metoprolol Tartrate ,16060507-3121,2009-12-27T13:06:26-08:00,Oostende,59905
+Colette Mcclain,egestas@Etiamgravida.org,Folic Acid,16340721-4661,1986-06-30T05:23:50-07:00,Saumur,57966
+Boris Strong,tincidunt.dui.augue@ProinmiAliquam.edu,Promethazine HCl,16511224-2796,2006-10-06T14:05:18-07:00,Beaumaris,74102
+Tallulah Cain,a.auctor@Donec.org,Metformin HCl,16150821-4358,1978-11-30T04:17:15-08:00,Verrès,80813
+Lucy Snow,Aliquam@Mauris.net,Metoprolol Succinate,16920126-8985,2007-12-08T06:42:00-08:00,Villa Latina,2842
+Jasmine Curtis,sapien@sit.edu,Amlodipine Besylate,16930312-2726,2007-10-07T22:27:34-07:00,Chilliwack,68878
+Grace Campbell,Aenean.sed.pede@velitduisemper.co.uk,Ciprofloxacin HCl,16730316-3005,1987-03-05T19:11:56-08:00,Vancouver,62013
+Lamar Shields,pharetra.nibh@Vivamus.co.uk,Glyburide,16790801-5808,2015-03-12T01:18:20-07:00,Geraldton-Greenough,95639
+Yeo Lara,a.aliquet@utdolor.org,LevothyroxineSodium,16160101-5546,2005-06-17T11:09:41-07:00,Lingen,31825
+Buffy Hughes,Etiam.vestibulum@lacus.co.uk,Pantoprazole Sodium,16800427-1584,1984-06-10T11:39:05-07:00,Pieve di Cadore,38209
+Naida Dalton,tincidunt.nibh.Phasellus@Duisrisusodio.edu,Pantoprazole Sodium,16141211-9834,2001-07-30T21:13:45-07:00,Dunbar,5020
+Caldwell Mccarthy,nisi.sem.semper@mattissemperdui.net,Tramadol HCl,16761212-6529,1992-03-21T09:30:19-08:00,Sannazzaro de' Burgondi,45331
+Byron Kirby,nascetur.ridiculus@ridiculus.com,Vyvanse,16820925-0227,2006-07-28T13:43:59-07:00,LaSalle,43618
+Elijah Garcia,eu@nibhDonec.com,Bystolic,16520629-0032,2009-12-17T11:34:59-08:00,Pitlochry,27455
+Nash Stanley,adipiscing.fringilla@Duisvolutpatnunc.net,Azithromycin,16660207-8831,1998-11-19T04:26:17-08:00,Porpetto,44955
+Blaze Fitzpatrick,nulla.ante@enim.net,Sulfamethoxazole/Trimethoprim,16180402-4337,1993-04-23T05:22:07-07:00,Valera Fratta,37243
+Fallon Roach,conubia.nostra.per@sagittis.ca,Cymbalta,16530427-2148,2000-01-12T18:49:27-08:00,Nieuwenrode,64043
+Marshall Manning,habitant.morbi.tristique@dictum.net,Triamterene/Hydrochlorothiazide,16210724-0042,1996-09-05T06:15:35-07:00,Bellingen,22358
+Isaiah Goff,diam.at@aliquet.co.uk,Amlodipine Besylate,16381110-4839,1994-05-10T22:44:24-07:00,Flin Flon,39878
+Tatiana Castro,Quisque@ut.edu,Metformin HCl,16770801-3359,1979-09-26T06:02:04-07:00,Cumberland County,37601
+Hayes Hudson,tellus.Nunc.lectus@diam.edu,Citalopram HBR,16521119-4443,2017-11-26T05:07:49-08:00,Rödermark,62786
+Harper Parsons,pede@Nam.org,Nexium,16130209-6308,1993-07-09T03:05:19-07:00,Yorkton,56961
+Justine Hopkins,Nulla.facilisis@Nullam.ca,Cephalexin,16180318-1294,2013-10-03T14:17:36-07:00,Rutigliano,39950
+Colette Bolton,et@egestasSed.ca,Atenolol,16890313-3505,1989-07-28T01:56:47-07:00,Guadalajara,25408
+Hamish Hubbard,mauris.Integer@orciDonec.ca,Potassium Chloride,16880321-5246,1996-10-09T12:44:54-07:00,Casablanca,90607
+Eugenia Middleton,orci@natoquepenatibus.com,Advair Diskus,16340415-0124,2001-04-09T06:16:58-07:00,New Westminster,40111
+Hedy Durham,tincidunt@vellectus.edu,Simvastatin,16430927-1486,2014-08-11T14:16:36-07:00,Baisy-Thy,48020
+Idona Pratt,tristique@amet.ca,Zolpidem Tartrate,16740128-0099,1994-12-10T20:22:34-08:00,Königs Wusterhausen,26432
+Denise Brennan,elementum@imperdietullamcorperDuis.ca,Furosemide,16350320-1430,1982-05-20T17:32:35-07:00,Nakusp,3163
+Rogan Dennis,eu@Nunc.com,Tamsulosin HCl,16900715-2250,2006-01-06T15:23:02-08:00,Bossut-Gottechain,30650
+Ashton Boyle,nonummy.ultricies.ornare@indolorFusce.com,Hydrochlorothiazide,16600413-9470,1983-12-07T13:08:03-08:00,Zandvoorde,25355
+Reese Romero,magna.malesuada.vel@vitaemaurissit.edu,Oxycodone HCl,16690420-4820,2001-12-19T07:09:18-08:00,Whitchurch-Stouffville,16291
+Prescott Dotson,vel.convallis.in@Vivamussit.net,Amlodipine Besylate,16500503-1157,1989-03-31T07:22:07-08:00,Cuttack,50403
+Tatyana Livingston,vel.convallis@inhendreritconsectetuer.ca,Diazepam,16990129-6799,2015-12-12T06:20:12-08:00,Milnathort,98465
+Rachel Strong,ipsum.Suspendisse@ullamcorpernislarcu.com,Diazepam,16080709-9684,1975-01-24T14:08:08-08:00,Beert,11437
+Maxwell Ramsey,neque@diamSeddiam.com,Prednisone,16290822-9624,2010-01-24T13:39:44-08:00,Ahrensburg,61542
+Wesley Head,et@Donectempor.edu,Metformin HCl,16070604-4211,1995-10-28T11:46:15-07:00,Moradabad,89326
+Sandra Frank,dui.lectus.rutrum@aenim.net,Triamterene/Hydrochlorothiazide,16860706-3685,1995-07-10T17:10:25-07:00,Borghetto di Vara,60979
+Ferris Mccormick,ac@ipsumcursus.org,Nasonex,16080422-9359,2011-08-27T06:35:53-07:00,Lüneburg,43139
+Colt Wilcox,tempus.eu@quis.net,Amoxicillin,16471018-3452,1982-01-08T06:29:51-08:00,Harlow,0265
+Tamekah Howard,Duis.ac.arcu@aliquet.org,Ciprofloxacin HCl,16701124-0467,1982-01-31T15:56:10-08:00,St. Andrews,23751
+Alvin Underwood,ut@aliquet.co.uk,Atenolol,16681123-8903,1985-05-26T20:36:22-07:00,Brugge Bruges,90827
+Sharon Bell,non.cursus@nec.com,Amoxicillin,16731024-7783,1982-07-04T04:21:43-07:00,Yeotmal,71268
+Rama Lindsey,egestas.a@semegestasblandit.net,Metoprolol Succinatee,16660507-7905,1993-01-01T20:44:23-08:00,Estación Central,62150
+Sybill Sharp,orci.adipiscing@Suspendisse.net,Amlodipine Besylate,16361122-9182,1983-02-28T11:02:29-08:00,Montelupo Fiorentino,82947
+Nehru Burgess,a.auctor.non@tristique.com,Fluconazole,16901006-2553,2014-11-04T16:05:01-08:00,Móstoles,65504
+Gay Leonard,orci.lacus.vestibulum@ante.ca,Tricor,16310106-4644,2006-09-28T20:36:59-07:00,Miramichi,70528
+Hedley Bolton,viverra@a.com,Methylprednisolone,16810805-5222,1984-01-17T18:40:31-08:00,Essene,3415
+Ursa Peters,netus@amet.edu,Amoxicillin,16820919-0126,2014-09-30T12:56:49-07:00,Innisfail,72497
+Stewart Mercado,nisi@commodo.org,Cyclobenzaprin HCl,16800416-7097,1991-11-09T03:04:16-08:00,Paris,64970
+Rachel Nash,tristique.aliquet.Phasellus@adipiscingelitCurabitur.edu,Clonazepam,16600504-5163,2007-12-27T12:12:17-08:00,Red Deer,0141
+Savannah Cooper,imperdiet.ornare@lorem.net,Diovan,16101226-3750,1977-02-13T17:30:31-08:00,San Venanzo,49037
+Keaton Sexton,Quisque.nonummy@aliquameuaccumsan.com,Abilify,16990820-0596,2004-05-10T09:37:57-07:00,Baltimore,96055
+Jessica Burks,a@Phaselluslibero.ca,Furosemide,16890712-6166,2008-01-04T02:56:08-08:00,Seraing,30783
+Velma Green,Morbi@dictummiac.com,Penicillin VK,16480324-4492,2011-10-19T22:02:07-07:00,Springfield,7252
+Whitney Talley,egestas@in.edu,Alprazolam,16740513-6719,1985-03-25T19:14:32-08:00,Curicó,42253
+Karen Mercado,nascetur.ridiculus.mus@fringillaporttitor.net,Amoxicillin Trihydrate/Potassium Clavulanate,16871028-1190,1993-11-06T00:44:31-08:00,Bossuit,27883
+Oprah Larsen,eu@nonenimcommodo.org,Bystolic,16520726-8474,1998-03-28T02:09:21-08:00,Sierning,90019
+Amal Berg,risus.Donec.egestas@Integerinmagna.net,Glipizide,16070306-6043,1998-05-07T17:58:11-07:00,Knokke-Heist,91691
+Kylynn Barrett,Aliquam@fringilla.com,LevothyroxineSodium,16250624-1229,2018-05-14T04:38:23-07:00,Panquehue,78302
+Brody Carver,cursus@fames.co.uk,Amlodipine Besylate,16330827-8674,2007-07-22T17:16:48-07:00,Barnstaple,64130
+Vladimir Sellers,eu.augue@iaculisaliquet.net,Amphetamine Salts,16300629-1268,2011-03-29T03:32:00-07:00,Viddalba,55023
+Karyn Charles,lorem.eu.metus@AliquamnislNulla.ca,Gabapentin,16711001-3625,1986-12-24T21:55:22-08:00,Hyderabad,58255
+Melanie Silva,ipsum.Suspendisse@dolordapibusgravida.net,Viagra,16810719-7983,1982-01-25T18:36:40-08:00,Reus,5562
+Odessa Shannon,leo@Maecenasornareegestas.com,Alprazolam,16910924-3718,1993-03-18T22:28:09-08:00,Termini Imerese,9355
+Clio Serrano,at.augue@semegestasblandit.co.uk,Seroquel,16730703-8831,1988-10-01T01:29:27-07:00,Périgueux,40312
+Rae Joyner,porttitor.interdum.Sed@egestasnuncsed.edu,Gabapentin,16140616-4598,2000-05-19T09:35:21-07:00,Herselt,55368
+William Mcdonald,lectus@lacusQuisqueimperdiet.co.uk,Premarin,16700212-3094,2005-05-04T03:32:27-07:00,Milwaukee,64446
+Conan Fitzgerald,at.pretium.aliquet@adipiscinglobortis.co.uk,Simvastatin,16851023-4241,1979-01-21T12:17:46-08:00,Grave,53158
+Cade Herring,non.massa@tortornibhsit.co.uk,Cymbalta,16960706-5837,1998-01-03T19:54:31-08:00,West Valley City,55804
+Rosalyn Suarez,aliquet.Phasellus@ante.ca,Suboxone,16811024-4319,2012-11-07T21:51:21-08:00,Aliano,33716
+Kane Morse,molestie.tortor@luctusut.net,Flovent HFA,16751228-1986,2003-06-02T19:05:45-07:00,Houtave,5428
+Gareth Compton,sem.egestas@cursuspurusNullam.co.uk,Atenolol,16330204-6978,2018-01-19T23:52:54-08:00,Sint-Amandsberg,88496
+Phyllis Barr,arcu@nonvestibulumnec.net,Suboxone,16890503-7191,1984-02-14T11:18:33-08:00,Hay River,55093
+Nola Madden,gravida@Maurismagna.edu,Simvastatin,16870227-8279,2006-12-02T19:15:18-08:00,Sint-Gillis-bij-Dendermonde,12880
+Wynne Roberts,ultricies@vitaepurusgravida.edu,Fluoxetine HCl,16800807-0743,1986-12-29T11:42:59-08:00,Rosolini,99116
+Hector Vega,nunc.sed.libero@Aeneansed.net,Namenda,16420407-3433,2005-02-14T09:49:31-08:00,Harelbeke,35057
+Noel Norman,risus.Duis.a@nibhlaciniaorci.com,Cymbalta,16180405-5182,2001-02-24T20:05:28-08:00,Arvier,54728
+Unity Gilbert,nunc.sed@Namacnulla.edu,Alprazolam,16300616-8730,1994-12-26T03:48:50-08:00,Chandrapur,29645
+Austin Larsen,augue@pharetraNamac.edu,Diazepam,16371001-0707,2002-11-08T16:31:56-08:00,Deutschkreutz,94057
+Hilda Henderson,sed@pede.com,Allopurinol,16291010-5952,2006-03-09T22:40:13-08:00,Cannole,36934
+Elmo Stewart,amet.ultricies@parturient.com,Metoprolol Tartrate ,16690117-4257,1979-01-15T13:24:34-08:00,Aosta,26774
+Quail Hendricks,lectus.a@nibh.org,Zetia,16300310-6634,2011-06-27T12:38:26-07:00,Bicester,48192
+Jemima Ingram,auctor.quis@necmalesuadaut.net,LevothyroxineSodium,16320226-1735,2003-12-03T12:49:11-08:00,Norrköping,45836
+Paula Carlson,sed@vitaerisus.edu,Cephalexin,16870516-8774,1994-11-19T22:07:26-08:00,Anzegem,76082
+Doris Maynard,magna.et.ipsum@erat.edu,Amoxicillin,16080630-7880,1992-12-08T12:01:56-08:00,Anchorage,61762
+Brody Velez,cursus.diam@sedsapien.org,Gabapentin,16150626-2516,2018-09-29T22:30:06-07:00,Ransart,65022
+Kessie Hampton,adipiscing.fringilla.porttitor@inhendrerit.com,Fluoxetine HCl,16161110-7218,1997-04-20T17:53:53-07:00,Saumur,65120
+Russell Velasquez,massa@atarcu.co.uk,Simvastatin,16860116-2715,2012-03-21T12:12:25-07:00,Essene,73506
+Lael Mccullough,vitae.orci.Phasellus@feugiatnonlobortis.edu,Warfarin Sodium,16270413-2154,2014-11-17T02:09:20-08:00,Rae Lakes,72754
+Eugenia Kent,lorem.eu@tellusimperdietnon.net,Doxycycline Hyclate,16830901-5439,1976-06-21T19:40:49-07:00,Worcester,33659
+Elvis Mitchell,rutrum@malesuada.net,Ibuprofen (Rx),16490829-6298,2002-06-22T13:07:08-07:00,Chiusanico,0743
+Hiram Weber,mi@blanditmattisCras.ca,Fluconazole,16540129-5158,2012-11-08T12:18:23-08:00,Schwedt,43796
+Piper Livingston,amet.consectetuer.adipiscing@orciluctuset.net,Furosemide,16580409-6120,2017-09-27T12:00:36-07:00,Des Moines,19273
+Camden Hernandez,Etiam.vestibulum@luctusipsum.edu,Nexium,16480115-5120,2017-01-28T05:03:22-08:00,Orbais,28980
+Patrick Kidd,nisl.sem@vitaesemper.co.uk,Venlafaxine HCl ER,16220612-8023,2012-01-25T09:55:25-08:00,Jammu,23846
+Aileen Sutton,auctor@ipsum.edu,Lisinopril,16140923-2384,2015-07-02T19:12:04-07:00,Sibret,4729
